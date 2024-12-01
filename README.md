@@ -8,7 +8,7 @@
    ```
 2. Navigate to the project directory:
    ```
-   cd lisk-wrap-transactions
+   cd Lisk-Wrap
    ```
 3. Install dependencies:
    ```
@@ -19,7 +19,7 @@
 
 1. Run the script:
    ```
-   npm start
+   node index.js
    ```
 2. When prompted, enter your private key.
 3. Enter the number of transactions you want to perform.
