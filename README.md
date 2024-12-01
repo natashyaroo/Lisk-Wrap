@@ -39,6 +39,6 @@ The script will output the transaction hash, wrap amount, and consumed fee for e
 
 You can customize the following parameters in the `config.js` file:
 
-- `transaction.minWrapAmount`: Minimum wrap amount (default: 0.000001 ETH)
-- `transaction.maxWrapAmount`: Maximum wrap amount (default: 10 ETH)
-- `transaction.maxGasPriceGwei`: Maximum gas price (default: 50 GWEI)
+- `transaction.minWrapAmount`: Minimum wrap amount (default: 0.0000001 ETH)
+- `transaction.maxWrapAmount`: Maximum wrap amount (default: 0.000005 ETH)
+- `transaction.maxGasPriceGwei`: Maximum gas price (default: 0.0000015 GWEI)
