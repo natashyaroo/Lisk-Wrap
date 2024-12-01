@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Environment
+.env
+
+# Log files
+*.log
+logs/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# OS
+.DS_Store
+Thumbs.db
